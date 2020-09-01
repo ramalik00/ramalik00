@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="left">I love working with deep learning and especially Computer Vision task. I have always been very fascinated by math and statistics, by how sometimes a very simple equation will describe extremely complex phenomena. This precisely was the reason I started expoloring this field .</h3>
 
-#### 🌱 I’m currently learning **learning Pytorch in my pursuit to build deep learning models by reading papers**
+#### 🌱 I’m currently learning **Pytorch in my pursuit to build deep learning models by reading papers**
 
 ### Languages
 
