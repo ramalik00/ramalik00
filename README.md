@@ -5,10 +5,10 @@
 
 ### Languages
 
-<img align="left" height="40" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" />
-<img align="left" height="40" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" height="40" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" />
-<img align="left" height="40" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" />
+<img align="left" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+<img align="left" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img align="left" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 
 <br/>
 <br/>
