@@ -28,7 +28,7 @@
 ### How to reach me
 <p align="center">
 <a href="mailto: ramalik00@gmail.com" target="_blank"><img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
-<a href="https://www.linkedin.com/in/rahulmalik--iitbhu/" target="_blank"><img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/rahulmalik-iitbhu" target="_blank"><img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 </p>
 
